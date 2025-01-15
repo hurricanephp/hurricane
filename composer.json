@@ -1,5 +1,5 @@
 {
-    "name": "hurricane/hurricane",
+    "name": "hurricanephp/hurricane",
     "description": "Hurricane: Asynchronous PHP framework.",
     "type": "project",
     "keywords": ["hurricane","framework","Asynchronous","async"],
